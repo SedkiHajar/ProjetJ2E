@@ -2,5 +2,5 @@ projectKey=ProjetS3:ProjetS3
 serverUrl=http://localhost:9000
 serverVersion=6.7.1.35068
 dashboardUrl=http://localhost:9000/dashboard/index/ProjetS3:ProjetS3
-ceTaskId=AXbtUDeaSwnDZM2qNiqF
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXbtUDeaSwnDZM2qNiqF
+ceTaskId=AXbvJyE1SwnDZM2qNiqV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXbvJyE1SwnDZM2qNiqV
